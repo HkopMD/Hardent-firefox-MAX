@@ -1,6 +1,14 @@
 # Hardent-firefox-MAX
 
 
+Download quiq
+
+
+
+
+
+
+
 # **Sources**
 
 I have trid to yous wiki mozilla(https://m.wiki.mozilla.org/Main_Page)

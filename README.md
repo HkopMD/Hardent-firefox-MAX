@@ -1,7 +1,6 @@
 # Hardent-firefox-MAX
 
-
-Download quiq
+How to setup
 
 
 
@@ -13,7 +12,7 @@ Download quiq
 
 I have trid to yous wiki mozilla(https://m.wiki.mozilla.org/Main_Page)
 
-wiki mozilla and firefox forum are the only things i not have double checked
+wiki mozilla are the only things i not have double checked
 
 
 

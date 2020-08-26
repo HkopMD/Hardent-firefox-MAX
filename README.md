@@ -1,0 +1,1 @@
+# Hardent-firefox-MAX

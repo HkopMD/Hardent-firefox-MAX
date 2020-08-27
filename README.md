@@ -1,6 +1,6 @@
 # Hardent-firefox-MAX
 
-### Setup guid
+## Setup guid
 
 Click here to see the guid
 
@@ -8,7 +8,7 @@ https://github.com/HkopMD/Hardent-firefox-MAX/blob/master/Guide.md
 
 
 
-# **Sources**
+## **Sources**
 
 I have trid to yous wiki mozilla so mutch a pusebul (https://m.wiki.mozilla.org/Main_Page)
 

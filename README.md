@@ -1,6 +1,6 @@
 # Hardent-firefox-MAX
 
-How to setup
+30:
 
 
 

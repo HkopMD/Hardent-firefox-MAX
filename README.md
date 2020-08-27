@@ -4,10 +4,13 @@
 
 Click here to see the guid
 
-https://github.com/HkopMD/Hardent-firefox-MAX/blob/master/Guide.md
+https://github.com/HkopMD/Hardent-firefox-MAX/blob/master/Guide-linux.md
 
 <br>
 <br>
+
+**Windows will com out soon**
+
 <br>
 <br>
 

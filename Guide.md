@@ -99,7 +99,62 @@
 
 **Click ctrl + c**
 
-![alt text](https://raw.githubusercontent.com/HkopMD/Hardent-firefox-MAX/master/Img/11.png
+![alt text](https://raw.githubusercontent.com/HkopMD/Hardent-firefox-MAX/master/Img/11.png)
+
+<br>
+<br>
+
+**Click on the other folder**
+
+<br>
+
+![alt text](https://raw.githubusercontent.com/HkopMD/Hardent-firefox-MAX/master/Img/12.png)
+
+<br>
+<br>
+
+**Click on cancel**
+
+<br>
+
+![alt text](https://raw.githubusercontent.com/HkopMD/Hardent-firefox-MAX/master/Img/13.png)
+
+<br>
+<br>
+
+**Click on the crosses**
+
+<br>
+
+![alt text](https://raw.githubusercontent.com/HkopMD/Hardent-firefox-MAX/master/Img/14.png)
+
+<br>
+<br>
+
+**Click on set as default profiles**
+
+<br>
+
+![alt text](https://raw.githubusercontent.com/HkopMD/Hardent-firefox-MAX/master/Img/15.png)
+
+<br>
+<br>
+
+**Click on the cross*
+
+<br>
+
+![alt text](https://raw.githubusercontent.com/HkopMD/Hardent-firefox-MAX/master/Img/16.png)
+
+
+<br>
+<br>
+
+# DONE
+
+
+
+
 
 
 

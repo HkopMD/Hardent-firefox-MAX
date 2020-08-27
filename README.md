@@ -6,6 +6,10 @@ Click here to see the guid
 
 https://github.com/HkopMD/Hardent-firefox-MAX/blob/master/Guide.md
 
+<br>
+<br>
+<br>
+<br>
 
 
 ## **Sources**

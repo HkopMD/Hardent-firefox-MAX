@@ -12,7 +12,7 @@
 
 # **Sources**
 
-I have trid to yous wiki mozilla(https://m.wiki.mozilla.org/Main_Page)
+I have trid to yous wiki mozilla so mutch a pusebul (https://m.wiki.mozilla.org/Main_Page)
 
 wiki mozilla are the only things i not have double checked
 

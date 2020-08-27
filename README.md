@@ -2,7 +2,7 @@
 
 **Setup guid**
 
-https://i.imgur.com/Kb8ZF47.jpeg
+![alt text](https://i.imgur.com/Kb8ZF47.jpeg)
 
 
 

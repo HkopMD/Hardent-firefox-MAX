@@ -5,7 +5,7 @@
 <br>
 <br>
 
-**Make a new tab**
+<center> **Make a new tab** </center>
 
 ![alt text](https://raw.githubusercontent.com/HkopMD/Hardent-firefox-MAX/master/Img/1.png)
 

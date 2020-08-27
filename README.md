@@ -2,7 +2,11 @@
 
 **Setup guid**
 
-![alt text](https://i.imgur.com/Kb8ZF47.jpeg)
+Make a new tab
+
+![alt text](https://raw.githubusercontent.com/HkopMD/Hardent-firefox-MAX/master/Img/1.png)
+
+
 
 
 

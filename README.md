@@ -1,17 +1,10 @@
 # Hardent-firefox-MAX
 
-**Setup guid**
+### Setup guid
 
-<br>
-<br>
-<br>
-<br>
+Click here to see the guid
 
-## Make a new tab
-
-![alt text](https://raw.githubusercontent.com/HkopMD/Hardent-firefox-MAX/master/Img/1.png)
-
-
+https://github.com/HkopMD/Hardent-firefox-MAX/blob/master/Guide.md
 
 
 

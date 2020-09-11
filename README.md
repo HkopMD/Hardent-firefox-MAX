@@ -19,7 +19,7 @@ https://github.com/HkopMD/Hardent-firefox-MAX/blob/master/Guide-linux.md
 
 I have trid to yous wiki mozilla so mutch a pusebul (https://m.wiki.mozilla.org/Main_Page)
 
-wiki mozilla are the only things i not have double checked
+wiki mozilla are the only things i dont have double checked
 
 
 

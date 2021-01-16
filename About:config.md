@@ -55,7 +55,7 @@ browser.sessionstore.privacy_level
 
 beacon.enabled = flase ! only privacytools.io and hackingarticles.in recommended it 
 
-browser.safebrowsing.downloads.remote.enabled = false ! only privacytools.io and hackingarticles.in recommended it (MORE info :(3)  )
+browser.safebrowsing.downloads.remote.enabled = false ! only privacytools.io and hackingarticles.in recommended it (MORE info :(3)https://github.com/HkopMD/Hardent-firefox-MAX/blob/master/Explanation.md)
 
 <br>
 <br>
@@ -113,7 +113,7 @@ https://www.privacytools.io/browsers/#webrtc
 
 
 
-Dusable webrtc
+Disable webrtc
 
 
 

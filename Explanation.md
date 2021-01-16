@@ -1,3 +1,5 @@
+_______________________1
+
 0 = Accept all cookies by default
 
 1 = Only accept from the originating site (block third party cookies)
@@ -15,7 +17,7 @@ If you have "Block all cookies by default" enabled when you refresh the page you
 
 
 
-
+________________________2
 
 
 

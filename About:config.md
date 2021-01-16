@@ -1,31 +1,4 @@
-### This will turn WebRTC IP Leak off 
 
-
-media.peerconnection.enabled = false
-
-media.peerconnection.turn.disable = ture
-
-media.peerconnection.use_document_iceservers = false 
-
-media.peerconnection.video.enabled = false
-
-media.peerconnection.identity.timeout = 1
-
-Sources: 
-
-<br>
-<br>
-<br>
-
-https://www.privacytools.io/browsers/#webrtc
-
-Dusable webrtc
-
-
-
-
-
-_______________
 Sources:
 
 https://cyber-cops.com/blog/how-to-tweak-mozilla-firefox-for-maximum-privacy-and-security
@@ -98,3 +71,62 @@ browser.sessionstore.privacy_level
 beacon.enabled = flase ! only privacytools.io and hackingarticles.in recommended it 
 
 browser.safebrowsing.downloads.remote.enabled ! only privacytools.io and hackingarticles.in recommended it (MORE)
+
+
+
+
+
+
+
+
+
+
+
+### This will turn WebRTC IP Leak off 
+
+
+
+
+
+media.peerconnection.enabled = false
+
+
+
+media.peerconnection.turn.disable = ture
+
+
+
+media.peerconnection.use_document_iceservers = false 
+
+
+
+media.peerconnection.video.enabled = false
+
+
+
+media.peerconnection.identity.timeout = 1
+
+<br>
+<br>
+<br>
+
+Sources: 
+
+
+
+<br>
+
+<br>
+
+<br>
+
+
+
+https://www.privacytools.io/browsers/#webrtc
+
+
+
+Dusable webrtc
+
+
+

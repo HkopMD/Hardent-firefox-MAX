@@ -1,3 +1,5 @@
+### This will turn WebRTC IP Leak off 
+
 
 media.peerconnection.enabled = false
 
@@ -39,6 +41,9 @@ https://www.hackingarticles.in/firefox-for-pentester-privacy-and-protection-conf
 <br>
 <br>
 <br>
+
+### This hardens Firefox
+
 <br>
 <br>
 <br>

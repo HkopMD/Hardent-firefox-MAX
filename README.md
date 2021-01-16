@@ -5,7 +5,9 @@
 
 <br>
 <br>
+
 ### How to https://github.com/HkopMD/Hardent-firefox-MAX/wiki
+
 <br>
 <br>
 

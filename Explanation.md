@@ -7,6 +7,10 @@
 If you have "Block all cookies by default" enabled when you refresh the page you will be logged out. But if you have "Only accept from the original site (block third party cookies)" it is only when you close the browser
 
 
+<br>
+<br>
+<br>
+
 
 0 = Accept cookies normally
 1 = Prompt for each cookie

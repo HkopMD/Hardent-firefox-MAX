@@ -1,7 +1,9 @@
 # Hardent-firefox-MAX
 
+## About:conifg list
 
-Download profile: https://github.com/HkopMD/Hardent-firefox-MAX/raw/master/HkopMD_Hardent_noplugins.default.zip
+
+Download profile: https://kutt.it/k8J9IU
 
 
 ## Setup guid

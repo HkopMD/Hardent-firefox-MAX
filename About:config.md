@@ -1,19 +1,4 @@
 
-Sources:
-
-https://cyber-cops.com/blog/how-to-tweak-mozilla-firefox-for-maximum-privacy-and-security
-
-https://restoreprivacy.com/firefox-privacy/
-
-https://www.privacytools.io/browsers/#about_config
-
-https://wiki.mozilla.org/Privacy/Privacy_Task_Force/firefox_about_config_privacy_tweeks
-
-https://www.hackingarticles.in/firefox-for-pentester-privacy-and-protection-configurations/
-
-<br>
-<br>
-<br>
 
 ### This hardens Firefox
 
@@ -72,10 +57,12 @@ beacon.enabled = flase ! only privacytools.io and hackingarticles.in recommended
 
 browser.safebrowsing.downloads.remote.enabled ! only privacytools.io and hackingarticles.in recommended it (MORE)
 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 

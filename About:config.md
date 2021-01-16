@@ -62,13 +62,23 @@ browser.safebrowsing.downloads.remote.enabled = false ! only privacytools.io and
 <br>
 <br>
 <br>
+
+## Sources (To Hadent NOT WEBRTC IP LEAK OFF 
+
+https://cyber-cops.com/blog/how-to-tweak-mozilla-firefox-for-maximum-privacy-and-security
+
+https://restoreprivacy.com/firefox-privacy/
+
+https://www.privacytools.io/browsers/#about_config
+
+https://wiki.mozilla.org/Privacy/Privacy_Task_Force/firefox_about_config_privacy_tweeks
+
+https://www.hackingarticles.in/firefox-for-pentester-privacy-and-protection-configurations/
+
+
 <br>
 <br>
 <br>
-
-
-
-
 
 
 ### This will turn WebRTC IP Leak off 

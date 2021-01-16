@@ -11,6 +11,10 @@ media.peerconnection.identity.timeout = 1
 
 Sources: 
 
+<br>
+<br>
+<br>
+
 https://www.privacytools.io/browsers/#webrtc
 
 Dusable webrtc
@@ -32,8 +36,12 @@ https://wiki.mozilla.org/Privacy/Privacy_Task_Force/firefox_about_config_privacy
 
 https://www.hackingarticles.in/firefox-for-pentester-privacy-and-protection-configurations/
 
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 

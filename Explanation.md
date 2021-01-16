@@ -32,3 +32,19 @@ ________________________2
 
 
 If you have “Accept for current session only” all cookies will be deleted after you close the browser. But if you have “Accept for N days” the browser won't save cookies 
+
+
+<br>
+<br>
+<br>
+
+_____________________3
+
+If you set it to true it will be scanned before downloading 
+
+
+
+
+
+
+

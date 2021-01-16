@@ -1,6 +1,6 @@
 # Hardent-firefox-MAX
 
-## About:conifg list
+## About:conifg list https://github.com/HkopMD/Hardent-firefox-MAX/blob/master/About:config.md
 
 
 Download profile: https://kutt.it/k8J9IU

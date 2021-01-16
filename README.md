@@ -1,5 +1,9 @@
 # Hardent-firefox-MAX
 
+
+Download profile: https://github.com/HkopMD/Hardent-firefox-MAX/raw/master/HkopMD_Hardent_noplugins.default.zip
+
+
 ## Setup guid
 
 Click here to see the guid

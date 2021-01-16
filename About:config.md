@@ -63,7 +63,7 @@ browser.safebrowsing.downloads.remote.enabled = false ! only privacytools.io and
 <br>
 <br>
 
-## Sources (To Hadent NOT WEBRTC IP LEAK OFF 
+## Sources (To Hadent NOT WEBRTC IP LEAK OFF) 
 
 https://cyber-cops.com/blog/how-to-tweak-mozilla-firefox-for-maximum-privacy-and-security
 
